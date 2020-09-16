@@ -11,9 +11,3 @@ body{
     height: 8rem;
     background: linear-gradient(rgb(231, 51, 156), rgb(2, 65, 16));
 }
-.col:nth-child(3n):nth-child(3n):nth-child(3n):nth-child(3n):nth-child(3n):nth-child(3n):nth-child(2n) {
-    background-color: rgba(112, 111, 11, 0.808);
-}
-.col:nth-child(3n):nth-child(3n):nth-child(3n):nth-child(3n) {
-    background-color: rgba(17, 131, 78, 0.295);
-}
